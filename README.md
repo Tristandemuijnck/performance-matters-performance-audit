@@ -6,14 +6,11 @@ Doe een Performance Audit test op een bestaande website en rapporteer daar over.
 
 ## Bitvavo
 
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
+Voor deze performance audit heb ik gekeken naar crypto exchange [Bitvavo](https://account.bitvavo.com/markets/XRP-EUR).  
 
-Toon een screenshot van de performance test.
+https://pagespeed.web.dev/analysis/https-account-bitvavo-com-markets-XRP-EUR/q7ydfrp37x?form_factor=desktop
 
-Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
-
-Voor deze performance audit heb ik gekeken naar crypto exchange Bitvavo.  
-
+Getest op 20/4/2023
 
 ## Licentie
 
